@@ -6,6 +6,7 @@ I'm Natnael Haile, a Full Stack Web Developer.
 
 [![Linkedin Badge](https://img.shields.io/badge/natnael-haile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natnael.haile@natnaeldev.com)
+[![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](natnaeldev.com)
 
 
 #### Top Technologies
