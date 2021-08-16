@@ -7,7 +7,7 @@ I'm Natnael Haile, a Full Stack Web Developer.
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natnael.haile@natnaeldev.com)
 [![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](natnaeldev.com)
-
+:paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
 #### Top Technologies
 
@@ -26,14 +26,6 @@ I'm Natnael Haile, a Full Stack Web Developer.
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) 
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) 
-
-<br />
-<br />
-
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: natnael.haile@natnaeldev.com
-
 
 #### Profile Visits 
 
