@@ -1,12 +1,12 @@
-## Hi I'm Natnael <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Natnael Haile, a Full Stack Web Developer.
+## I'm Natnael Haile, a Full Stack Web Developer.
 
 📫 Reach out to me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/natnael-haile-b146b41bb) 
-[![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natnael.haile@natnaeldev.com)
-[![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](natnaeldev.com)
+[![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haile.natnael@natnaeldev.com)
+[![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](www.natnaeldev.com)
 #
 :paperclip: [Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
