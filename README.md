@@ -7,8 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haile.natnael@natnaeldev.com)
 [![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.natnaeldev.com)
-#
-:paperclip: [Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+[![Resume Badge](https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social)](https://www.natnaeldev.com)
 
 #### Top Technologies
 
