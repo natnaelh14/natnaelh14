@@ -4,9 +4,9 @@
 
 📫 Reach out to me!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/natnael-haile-b146b41bb) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haile.natnael@natnaeldev.com)
-[![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](www.natnaeldev.com)
+[![Website Badge](https://img.shields.io/badge/-Website-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.natnaeldev.com)
 #
 :paperclip: [Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 
