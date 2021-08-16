@@ -36,3 +36,7 @@
 
 ![Natnael's github stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+#### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelh14&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
+
