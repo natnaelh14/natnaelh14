@@ -38,5 +38,5 @@
 
 #### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelh14&layout=compact&title_color=30363d&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelh14&layout=compact&title_color=28ea80d&text_color=f3f3f3&bg_color=30363d)](https://github.com/natnaelh14/github-readme-stats)
 
