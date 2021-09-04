@@ -36,8 +36,3 @@
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=natnaelh14.natnaelh14)
-
-#### Github Stats
-
-![Natnael's github stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&theme=tokyonight)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelh14&layout=compact&title_color=71a4fb&text_color=f3f3f3&bg_color=1a1b27)](https://github.com/natnaelh14/github-readme-stats)
-
