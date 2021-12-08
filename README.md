@@ -7,8 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haile.natnael@natnaeldev.com)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.natnaeldev.com)
-[![Resume Badge](https://img.shields.io/badge/RESUME-131F37?style=for-the-badge&logo=iota&logoColor=white)](http://natnaeldev.com/static/media/resume.61d22964.pdf)
-
+[![Resume Badge](https://img.shields.io/badge/RESUME-131F37?style=for-the-badge&logo=iota&logoColor=white)](https://natnaeldev.com/static/media/tech-resume.04c16c53.pdf)
 
 #### Technology Proficiency
 
