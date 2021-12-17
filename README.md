@@ -44,5 +44,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=natnaelh14.natnaelh14)
 
 #### GitHub Stats
-![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&show_icons=true&theme=algolia)
+![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&show_icons=true&theme=onedark)
 
