@@ -4,7 +4,6 @@
 
 📫 Reach out to me!
 
-[![Youtube Badge](https://img.shields.io/badge/<NatnaelDev>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCKdRQ3-fwIF8IR0S7qLaHjA) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-haile-b146b41bb) 
 [![Twitter Badge](https://img.shields.io/badge/<NatnaelDev>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/NatnaelH) 
 [![Mail Badge](https://img.shields.io/badge/haile.natnael-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haile.natnael@natnaeldev.com)
