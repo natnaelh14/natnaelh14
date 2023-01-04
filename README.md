@@ -38,6 +38,7 @@
 [![GitHub Actions Badge](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](#)
+![Contentful](https://img.shields.io/badge/-Contentful-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
 
 
 #### Profile Visits 
