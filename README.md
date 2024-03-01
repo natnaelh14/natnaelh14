@@ -44,10 +44,6 @@
 ![Contentful](https://img.shields.io/badge/-Contentful-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=natnaelh14.natnaelh14)
-
 #### GitHub Stats
 ![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&show_icons=true&theme=onedark)
 
