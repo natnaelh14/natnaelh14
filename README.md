@@ -1,6 +1,6 @@
 ## Hello, I'm Natnael 👋 Nice to virtually meet you!
 
-## I am a Full-Stack Web Developer.
+## I am a Full-Stack Software Developer.
 
 📫 Reach out to me!
 
