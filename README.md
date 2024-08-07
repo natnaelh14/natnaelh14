@@ -36,8 +36,3 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)](#)
 ![Contentful](https://img.shields.io/badge/-Contentful-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black)
-
-
-#### GitHub Stats
-![Natnael's GitHub stats](https://github-readme-stats.vercel.app/api?username=natnaelh14&show_icons=true&theme=onedark)
-
